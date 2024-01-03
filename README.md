@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Aryan Patel</h1>
 <h3 align="center">A Computer Science Enthusiast 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9b413a4d5dd59db03d605f5f0c8d8cff20840b50bf1423a50023ef1d36c5ef4f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336b6c5a6b446966306e7341414141642f67616d696e672d6769662e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-r-patel&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-r-patel" /> </p>
 
