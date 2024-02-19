@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **aryanp.031206@gmail.com**
+- 📫 How to reach me **aryanpatel31206@gmail.com**
 
 - ⚡ Fun fact **I love programming 😎**
 
