@@ -4,7 +4,7 @@
 💻 I am currently diving deep into AI, Machine Learning, & Software Development<br>
 🎯 I am actively seeking Winter 2026 Co-op/Internships<br>
 
-Check out my [portfolio website](https://aryan-r-patel.github.io/portfolio-website).
+Check out my [portfolio website](https://aryan-r-patel.github.io/).
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-patel-codes) 
