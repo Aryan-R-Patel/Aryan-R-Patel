@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Aryan Patel <br>
 🎓 CS student @ University of Toronto Scarborough<br>
+🤖 Software Engineering Intern @ University of Toronto<br>
 💻 I am currently diving deep into AI, Machine Learning, & Software Development<br>
 
 Check out my [portfolio website](https://aryan-r-patel.github.io/).
