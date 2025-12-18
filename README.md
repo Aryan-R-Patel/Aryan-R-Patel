@@ -2,7 +2,6 @@
 👋 Hi, I'm Aryan Patel <br>
 🎓 CS student @ University of Toronto Scarborough<br>
 💻 I am currently diving deep into AI, Machine Learning, & Software Development<br>
-🎯 I am actively seeking Winter 2026 Co-op/Internships<br>
 
 Check out my [portfolio website](https://aryan-r-patel.github.io/).
 
